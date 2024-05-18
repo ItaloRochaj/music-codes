@@ -15,7 +15,7 @@ Essas interfaces permitem que diferentes classes possam ser tratadas de maeira p
 
 ## Resultado do Projeto
 
-<img src="[https://github.com/ItaloRochaj/cineplus/blob/main/resultado-projeto.png](https://github.com/ItaloRochaj/music-codes/blob/main/music.png](https://github.com/ItaloRochaj/music-codes/blob/main/music.png)">
+<img src="(https://github.com/ItaloRochaj/music-codes/blob/main/music.png](https://github.com/ItaloRochaj/music-codes/blob/main/music.png](https://github.com/ItaloRochaj/music-codes/blob/main/music.png)">
 
 ## Autor:
 <table>
